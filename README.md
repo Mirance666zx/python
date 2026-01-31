@@ -1,3 +1,3 @@
 It`s my first commit message
-Its my second commit message
-Its my 3th commit msg
+It`s my second commit message
+It`s my 3th commit msg
